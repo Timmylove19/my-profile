@@ -1,0 +1,120 @@
+body {
+    background-color: #E5E5CB;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+}
+h1 {
+    line-height: 1;
+    font-size: 4rem;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 1.50rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+
+
+h3 {
+    color: #11999E;
+}
+.top-container {
+    background-color: #E5E5CB;
+    position: relative;
+    padding-top: 100px;
+}
+
+.second-cloud {
+position: absolute;
+bottom: 300px;
+left: 300px;
+}
+.first-cloud {
+position: absolute;
+right: 300px;
+top: 50px;
+}
+.skill-pic0 {
+    width: 25%;
+    height: 150px;
+
+}
+.skill-pic1 {
+    width: 25%;
+    height: 150px;
+    text-align: left;
+    float: left;
+    margin-right: 30px;
+}
+.skill-pic2 {
+    width: 25%;
+    height: 150px;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+.footer-link1 {
+    text-decoration: none;
+    color: white;
+    border-radius: 20;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background-color: #11999E;
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    -ms-border-radius: 20;
+    -o-border-radius: 20;
+}
+.footer-link1:hover {
+    background-color: rgb(152, 193, 203);
+}
+a {
+    color: #11999E;
+    margin-left: 8px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+a:hover {
+    color: white;
+}
+hr {
+    width: 80px;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    color: grey;
+
+
+}
+.contact-me {
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+.contact-me2 {
+    margin-bottom: 80px;
+
+
+}
+.bottom-container {
+    background-color: #66BFBF;
+    height: 100px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.text-name {
+    color: aliceblue;
+    margin-top: 40px;
+    font-size: 10px;
+}
